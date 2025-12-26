@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Web Application ❌⭕
+# Tic-Tac-Toe Web Application
 
 ## Task
 Web Development Internship – Task 03
